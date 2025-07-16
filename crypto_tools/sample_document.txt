@@ -1,0 +1,18 @@
+Secret Document - Top Secret
+
+This document contains sensitive information that must be protected:
+
+Login Credentials:
+- Username: admin
+- Password: SecurePass123!
+- Server: 192.168.1.100
+
+API Keys:
+- Production: prod_key_987654321
+- Staging: stage_key_123456789
+
+Notes:
+Remember to change these credentials monthly for security.
+All access should be logged and monitored.
+
+End of document.

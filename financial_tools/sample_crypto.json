@@ -1,0 +1,53 @@
+{
+  "crypto_info": {
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "rank": 1,
+    "category": "Cryptocurrency",
+    "algorithm": "SHA-256",
+    "last_updated": "2024-07-08T15:30:00Z"
+  },
+  "current_price": 43250.75,
+  "market_cap": 849000000000,
+  "market_cap_rank": 1,
+  "circulating_supply": 19630000,
+  "total_supply": 21000000,
+  "max_supply": 21000000,
+  "volume_24h": 28500000000,
+  "volume_change_24h": 12.5,
+  "price_change_24h": 2.8,
+  "price_change_percentage_24h": 6.9,
+  "price_change_7d": -3.2,
+  "price_change_percentage_7d": -7.2,
+  "price_change_30d": 8.7,
+  "price_change_percentage_30d": 20.1,
+  "volatility_30d": 58.2,
+  "volatility_90d": 62.8,
+  "all_time_high": 69045.00,
+  "all_time_high_date": "2021-11-10",
+  "all_time_low": 67.81,
+  "all_time_low_date": "2013-07-06",
+  "technical_indicators": {
+    "rsi_14": 68.5,
+    "fear_greed_index": 72,
+    "moving_avg_50": 41800.30,
+    "moving_avg_200": 38950.85,
+    "support_level": 40000.00,
+    "resistance_level": 45000.00
+  },
+  "network_stats": {
+    "hash_rate": "420 EH/s",
+    "mining_difficulty": 55621444139429,
+    "block_time": 10.2,
+    "transactions_24h": 285000,
+    "active_addresses": 950000,
+    "transaction_fees_avg": 15.50
+  },
+  "market_sentiment": {
+    "social_volume_24h": 12500,
+    "news_sentiment": "Bullish",
+    "reddit_posts_24h": 1850,
+    "twitter_mentions_24h": 45000,
+    "google_trends": 68
+  }
+}

@@ -1,0 +1,13 @@
+Name,Age,Email,Salary,Department,Join Date
+John Smith,28,john.smith@email.com,50000,Engineering,2023-01-15
+Jane Doe,32,jane.doe@email.com,65000,Marketing,2022-03-20
+Bob Johnson,45,bob.johnson@email.com,75000,Sales,2021-07-10
+Alice Brown,29,alice.brown@email.com,55000,Engineering,2023-02-28
+Charlie Wilson,  ,charlie.wilson@email.com,60000,HR,2022-11-05
+David Lee,35,david.lee@email.com,70000,Engineering,2020-09-12
+Emma Davis,27,emma.davis@email.com,,Marketing,2023-04-03
+Frank Miller,41,frank.miller@email.com,80000,Sales,2019-12-15
+Grace Taylor,33,grace.taylor@email.com,62000,HR,2022-06-30
+Henry Anderson,38,henry.anderson@email.com,68000,Engineering,2021-11-22
+John Smith,28,john.smith@email.com,50000,Engineering,2023-01-15
+,,,,,"
