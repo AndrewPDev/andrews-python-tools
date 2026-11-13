@@ -1,0 +1,50 @@
+{
+  "stock_info": {
+    "symbol": "TSLA",
+    "name": "Tesla, Inc.",
+    "exchange": "NASDAQ",
+    "sector": "Automotive",
+    "industry": "Electric Vehicles",
+    "last_updated": "2024-07-08T15:30:00Z"
+  },
+  "current_price": 248.50,
+  "market_cap": 790000000000,
+  "shares_outstanding": 3178000000,
+  "pe_ratio": 48.2,
+  "peg_ratio": 1.8,
+  "price_to_book": 8.4,
+  "price_to_sales": 6.1,
+  "dividend_yield": 0.0,
+  "beta": 2.05,
+  "eps_current": 5.16,
+  "eps_growth": 28.5,
+  "revenue_growth": 19.3,
+  "profit_margin": 8.2,
+  "debt_to_equity": 0.17,
+  "current_ratio": 1.84,
+  "roa": 7.5,
+  "roe": 19.3,
+  "price_targets": {
+    "analyst_average": 265.00,
+    "analyst_high": 350.00,
+    "analyst_low": 180.00,
+    "number_of_analysts": 28
+  },
+  "technical_indicators": {
+    "rsi_14": 62.3,
+    "moving_avg_50": 235.80,
+    "moving_avg_200": 201.45,
+    "volume_avg_10d": 89500000,
+    "support_level": 230.00,
+    "resistance_level": 270.00
+  },
+  "price_history": {
+    "1_day_change": 3.2,
+    "1_week_change": -2.8,
+    "1_month_change": 12.4,
+    "3_month_change": 8.9,
+    "1_year_change": -15.6,
+    "52_week_high": 414.50,
+    "52_week_low": 152.37
+  }
+}

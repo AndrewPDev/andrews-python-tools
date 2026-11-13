@@ -1,0 +1,119 @@
+{
+  "portfolio_info": {
+    "name": "Diversified Growth Portfolio",
+    "owner": "John Investor",
+    "created_date": "2024-01-01",
+    "last_updated": "2024-07-08",
+    "total_invested": 75000,
+    "target_allocation": {
+      "stocks": 70,
+      "bonds": 25,
+      "cash": 5
+    }
+  },
+  "holdings": [
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "type": "stocks",
+      "shares": 150,
+      "purchase_price": 145.50,
+      "current_price": 175.80,
+      "value": 26370,
+      "annual_return": 12.8,
+      "volatility": 18.5,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "type": "stocks",
+      "shares": 80,
+      "purchase_price": 235.00,
+      "current_price": 285.60,
+      "value": 22848,
+      "annual_return": 15.4,
+      "volatility": 16.2,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "type": "stocks",
+      "shares": 45,
+      "purchase_price": 125.30,
+      "current_price": 142.80,
+      "value": 6426,
+      "annual_return": 11.2,
+      "volatility": 20.1,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "type": "stocks",
+      "shares": 100,
+      "purchase_price": 158.90,
+      "current_price": 162.40,
+      "value": 16240,
+      "annual_return": 6.8,
+      "volatility": 12.3,
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "VTI",
+      "name": "Vanguard Total Stock Market ETF",
+      "type": "stocks",
+      "shares": 75,
+      "purchase_price": 210.50,
+      "current_price": 228.90,
+      "value": 17167,
+      "annual_return": 10.9,
+      "volatility": 15.8,
+      "sector": "Diversified"
+    },
+    {
+      "symbol": "BND",
+      "name": "Vanguard Total Bond Market ETF",
+      "type": "bonds",
+      "shares": 200,
+      "purchase_price": 82.25,
+      "current_price": 79.85,
+      "value": 15970,
+      "annual_return": 3.2,
+      "volatility": 4.5,
+      "sector": "Fixed Income"
+    },
+    {
+      "symbol": "VXUS",
+      "name": "Vanguard Total International Stock ETF",
+      "type": "stocks",
+      "shares": 85,
+      "purchase_price": 58.30,
+      "current_price": 61.75,
+      "value": 5248,
+      "annual_return": 8.7,
+      "volatility": 17.9,
+      "sector": "International"
+    },
+    {
+      "symbol": "CASH",
+      "name": "High Yield Savings Account",
+      "type": "cash",
+      "shares": 1,
+      "purchase_price": 4500,
+      "current_price": 4500,
+      "value": 4500,
+      "annual_return": 4.5,
+      "volatility": 0.1,
+      "sector": "Cash"
+    }
+  ],
+  "performance_history": {
+    "1_month": 2.3,
+    "3_months": 8.1,
+    "6_months": 12.7,
+    "1_year": 18.9,
+    "3_years": 45.2
+  }
+}

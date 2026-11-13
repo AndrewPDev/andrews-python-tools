@@ -1,0 +1,9 @@
+symbol,name,type,value,annual_return,volatility,sector
+AAPL,Apple Inc.,stocks,26370,12.8,18.5,Technology
+MSFT,Microsoft Corporation,stocks,22848,15.4,16.2,Technology
+GOOGL,Alphabet Inc.,stocks,6426,11.2,20.1,Technology
+JNJ,Johnson & Johnson,stocks,16240,6.8,12.3,Healthcare
+VTI,Vanguard Total Stock Market ETF,stocks,17167,10.9,15.8,Diversified
+BND,Vanguard Total Bond Market ETF,bonds,15970,3.2,4.5,Fixed Income
+VXUS,Vanguard Total International Stock ETF,stocks,5248,8.7,17.9,International
+CASH,High Yield Savings Account,cash,4500,4.5,0.1,Cash
